@@ -31,7 +31,7 @@ First we will have to analyze the `cat ./getch.conf` configuration file and we c
 In order for you to create a new node, it is first necessary to configure it in the configuration file, Example:
 
 ```bash
-$ `nano ~/.getch/getch.conf`
+$ nano ~/.getch/getch.conf
 ```
 
 ```bash
