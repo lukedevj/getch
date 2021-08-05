@@ -52,7 +52,7 @@ $ getch -a Luke -c "getinfo"
     "version": "0.13.99-beta commit=v0.13.0-beta-195-ga427451b",
     "commit_hash": "a427451b7500979be5a6a4833c63026867cf23c3",
     "identity_pubkey": "03a04b1259522e9d0a8e9d088aead406ca7d9751246561997d979c2bd4bd77657a",
-    "alias": "Alice",
+    "alias": "Luke",
     "color": "#3399ff",
     "num_pending_channels": 0,
     "num_active_channels": 0,
