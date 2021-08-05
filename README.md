@@ -65,5 +65,5 @@ $ getch -a Luke -c "getinfo"
 
 ### Killing all lnd instances.
 ```bash
-$ getch -a "" -k
+$ getch -a Luke -k
 ```
