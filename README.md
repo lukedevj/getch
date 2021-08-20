@@ -2,7 +2,7 @@
 
 Manage multiple Lightning nodes in a simple way.
 
-[Buy me a coffee ☕︎](https://coinos.io/lukedev)
+[Buy me a coffee ☕︎](https://coinos.io/lukedevj)
 
 ## Install
 
